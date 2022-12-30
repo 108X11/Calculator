@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  
+  justify-content: center;
+  align-items: center;
+
+}.button{
+  width: 49px;
+  height: 49px;
+  font-size: 25px;
+  margin: 2px;
+}
+.textview{
+  width: 211px;
+  height: 40px;
+  font-size: 25px;
+  margin: 2px;
+  cursor: pointer;
+}
